@@ -1,0 +1,19 @@
+body{
+    font-family: 'Dongle', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+h1{
+    font-size: medium;
+}
+article{
+    padding-left: 35px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: rgba(47, 79, 79, 0.527);
+    padding: 20px 20px;
+    color: khaki;
+    font-weight: 700;
+    border-radius: 15px 15px 15px 15px
+}
